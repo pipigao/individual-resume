@@ -13,7 +13,7 @@ resumePath: './markdown/resume-template.md'
 showHeader: true
 headerInfo:
   # 头像，相对本配置文件路径，或者 URL
-  photo:  '‪F:/photo/huangjinggao.jpeg'
+  photo:  'file:///F:/photo/huangjinggao.jpeg'
   name: '黄靖高'
   phone: '13336414531'
   email: '740495578@qq.com'
